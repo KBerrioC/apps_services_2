@@ -1,0 +1,12 @@
+JSON roto: RECHAZADO -> JSON invßlido: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+sensor inexistente: RECHAZADO -> sensor inexistente: ZZ-999
+sensor de otro grupo: RECHAZADO -> el sensor AQ-001 no es el asignado (AQ-005)
+unidad incorrecta: RECHAZADO -> unidad incorrecta en 'pm10': recibida 'mg/m3', esperada 'ug/m3'
+tipo de dato incorrecto: RECHAZADO -> estructura invßlida: measurements.pm10.value: Input should be a valid number
+magnitud incorrecta: RECHAZADO -> magnitud 'temperature' no existe para el sensor AQ-005
+timestamp invßlido: RECHAZADO -> estructura invßlida: timestamp: Value error, el timestamp tiene un formato invßlido
+valor fuera de rango: RECHAZADO -> valor fuera de rango en 'pm1_0': 500.0 (permitido 0.0000 a 100.0000)
+una magnitud vßlida y otra con unidad mala: RECHAZADO -> unidad incorrecta en 'pm2_5': recibida 'mg/m3', esperada 'ug/m3'
+
+Mediciones antes: 891, despuÚs: 891
+OK: no se guard¾ ning·n dato invßlido
