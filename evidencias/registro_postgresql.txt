@@ -1,0 +1,13 @@
+== ┌ltimas 6 mediciones guardadas de AQ-005 ==
+(45241, 'AQ-005', 'pm10', Decimal('109.5600'), 'ug/m3', datetime.datetime(2026, 10, 10, 1, 22, 25, tzinfo=datetime.timezone.utc), datetime.datetime(2026, 10, 10, 1, 22, 25, 944751, tzinfo=datetime.timezone.utc))
+(45240, 'AQ-005', 'pm2_5', Decimal('74.4400'), 'ug/m3', datetime.datetime(2026, 10, 10, 1, 22, 25, tzinfo=datetime.timezone.utc), datetime.datetime(2026, 10, 10, 1, 22, 25, 944751, tzinfo=datetime.timezone.utc))
+(45239, 'AQ-005', 'pm1_0', Decimal('18.5300'), 'ug/m3', datetime.datetime(2026, 10, 10, 1, 22, 25, tzinfo=datetime.timezone.utc), datetime.datetime(2026, 10, 10, 1, 22, 25, 944751, tzinfo=datetime.timezone.utc))
+(45232, 'AQ-005', 'pm10', Decimal('92.2900'), 'ug/m3', datetime.datetime(2026, 10, 10, 1, 22, 20, tzinfo=datetime.timezone.utc), datetime.datetime(2026, 10, 10, 1, 22, 20, 942611, tzinfo=datetime.timezone.utc))
+(45231, 'AQ-005', 'pm2_5', Decimal('6.9900'), 'ug/m3', datetime.datetime(2026, 10, 10, 1, 22, 20, tzinfo=datetime.timezone.utc), datetime.datetime(2026, 10, 10, 1, 22, 20, 942611, tzinfo=datetime.timezone.utc))
+(45230, 'AQ-005', 'pm1_0', Decimal('26.3100'), 'ug/m3', datetime.datetime(2026, 10, 10, 1, 22, 20, tzinfo=datetime.timezone.utc), datetime.datetime(2026, 10, 10, 1, 22, 20, 942611, tzinfo=datetime.timezone.utc))
+
+== Total de mediciones de AQ-005: 900 ==
+
+== Claves forßneas ==
+('mediciones', 'sensor_magnitud_id', 'sensor_magnitudes', 'id')
+('sensor_magnitudes', 'sensor_id', 'sensores', 'id')
